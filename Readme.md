@@ -10,11 +10,6 @@ This Android app is a product listing and product addition application, built as
 - Add a new product with the product name, product type, selling price, and tax rate.
 - Optionally, add an image for the new product with a 1:1 ratio in JPEG or PNG format.
 
-## Prerequisites
-
-- Android Studio 4.1 or later
-- Android SDK 27 or later
-- Kotlin 1.3.72 or later
 
 ## Getting Started
 
