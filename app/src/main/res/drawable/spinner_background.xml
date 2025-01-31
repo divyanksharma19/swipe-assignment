@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/edit_text_background" />
+    <item
+        android:left="0dp"
+        android:top="0dp"
+        android:right="25dp"
+        android:bottom="0dp"
+        android:gravity="end|center_vertical"
+        android:drawable="@drawable/baseline_arrow_drop_down_24" />
+</layer-list>

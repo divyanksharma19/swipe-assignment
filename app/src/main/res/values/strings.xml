@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SwipeAndroidAssignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_product_image">Product Image</string>
+    <string name="select_product_type">Select product type</string>
+    <string name="add_your_product">Add Product</string>
+    <string name="manage_your_products_add_your_products_to_get_started">Manage your Products! Add your products to get started</string>
+    <string name="enter_product_name">Enter product name</string>
+    <string name="enter_product_selling_price">Enter product selling price</string>
+    <string name="enter_product_tax_rate">Enter product tax rate</string>
+    <string name="select_image">Select Image</string>
+    <string name="no_products_found">No Products found</string>
+
+
+    <string-array name="product_types">
+        <item>Anime</item>
+        <item>Product</item>
+        <item>Grocery</item>
+        <item>Media</item>
+        <item>SmartPhone</item>
+        <item>Electronic</item>
+        <item>Wear</item>
+        <item>Other</item>
+        <item>Snacks</item>
+        <item>Laptop</item>
+        <item>electronics</item>
+        <item>Vehicle</item>
+        <item>t6</item>
+        <item>t5</item>
+        <item>t3</item>
+        <item>t2</item>
+        <item>t1</item>
+        <item>Food</item>
+    </string-array>
+
+</resources>
