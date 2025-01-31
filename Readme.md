@@ -23,7 +23,7 @@ Follow these steps to get the app up and running on your local machine.
 1. Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/ajitpatel28/SwipeAndroidAssignment
+git clone https://github.com/divyanksharma19/swipe-assignment.git
 ```
 
 2. Open Android Studio and select "Open an existing Android Studio project."
