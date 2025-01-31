@@ -1,30 +1,23 @@
 # Swipe Android Assignment App
 
-This Android app is a product listing and product addition application, built as part of the Swipe Android Assignment. It allows users to view a list of products and add new products to the list. The app uses modern Android technologies and best practices, including MVVM architecture, Retrofit for REST API communication, KOIN for Dependency Injection, and Lifecycle for Kotlin coroutines.
+This Android application allows users to browse and add products. Built for the Swipe Android Assignment, it follows best development practices, using MVVM architecture, Retrofit for API requests, KOIN for dependency injection, and Lifecycle components for coroutine management.
 
 ## Features
 
-- View a list of products with details like product name, product type, price, and tax rate.
-- Search for products based on their names.
-- Scroll through the list of products.
-- Add a new product with the product name, product type, selling price, and tax rate.
-- Optionally, add an image for the new product with a 1:1 ratio in JPEG or PNG format.
+- Display a list of products with details such as name, type, price, and tax.
+- Search functionality to filter products by name.
+- Scrollable product list for easy navigation.
+- Add a new product with details like name, category, price, and tax.
+- Optionally upload a product image in JPEG or PNG format (1:1 ratio).
 
-## Prerequisites
-
-- Android Studio 4.1 or later
-- Android SDK 27 or later
-- Kotlin 1.3.72 or later
 
 ## Getting Started
 
-Follow these steps to get the app up and running on your local machine.
+To set up and run the app locally, follow these steps:
 
-1. Clone the repository to your local machine using Git:
-
-```bash
-git clone https://github.com/ajitpatel28/SwipeAndroidAssignment
-```
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/divyanksharma19/swipe-assignment.git
 
 2. Open Android Studio and select "Open an existing Android Studio project."
 
@@ -101,8 +94,6 @@ The app communicates with the following API endpoint for adding new products:
 - Glide: For image loading and caching.
 - ViewModel and LiveData: For implementing MVVM architecture.
 
-## Contribution
 
-If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Contributions are welcome!
 
 
